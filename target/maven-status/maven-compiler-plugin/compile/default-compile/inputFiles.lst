@@ -1,0 +1,14 @@
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\config\SecurityConfig.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\controller\AdminProductController.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\controller\AuthController.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\controller\CustomerProductController.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\dto\LoginRequest.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\dto\SignupRequest.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\model\Product.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\model\User.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\ProductportalApplication.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\repository\ProductRepository.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\repository\UserRepository.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\security\JwtFilter.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\security\JwtUtil.java
+D:\Full Stack\Assignment\productportal\src\main\java\com\assignment\productportal\service\CustomUserDetailsService.java
